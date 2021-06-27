@@ -10,4 +10,4 @@ Link to the json file which contains compiled solidity as well as byte code
 Link to the exposed url you need to connect to
 
 # example
-!(img)[output.jpg]
+![img])(/output.jpg)
