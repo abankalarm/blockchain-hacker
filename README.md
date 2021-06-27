@@ -1,5 +1,5 @@
 # blockchain-hacker
-This is a tool to directly connect to any exposed block chain connection. 
+This is a minimal command line script to directly connect to any exposed block chain connection. 
 
 # usage
 usage: block.py [-h] -a ADDRESS -j JSON -u URL
